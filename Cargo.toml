@@ -1,0 +1,10 @@
+[package]
+name = "mallory"
+version = "0.1.0"
+authors = ["Jonas Schievink <jonasschievink@gmail.com>"]
+edition = "2018"
+build = "src/main.rs"
+autobins = false
+
+[dependencies]
+mac = { path = "src/mac" }
