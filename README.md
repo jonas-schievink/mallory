@@ -7,4 +7,6 @@ Some of these techniques only work when *directly* opening this project (for exa
 
 Can you find all 4 ways this crate is trying to steal your SSH key? Find the solution in [SOLUTION.md](SOLUTION.md).
 
+**Note**: This currently only works on Linux.
+
 (this project was inspired by https://github.com/lucky/bad_actor_poc)
